@@ -1,0 +1,134 @@
+.topbar{
+  background-color: black;
+  height: 10px;
+  width: 100%;
+}
+body{
+  background-color: white;
+  
+}
+.container{
+  
+  height: 1000px;
+  width: 70%;
+  margin: 0px auto;
+}
+.header{
+  background-color: white;
+  height: 80px;
+}
+.header img{
+  height: 80px;
+}
+.header ul{
+  float:right;
+  margin-top: 25px;
+}
+.header ul li{
+  display: inline;
+  margin-right: 35px;
+  
+}
+.header ul li a{
+  color: grey;
+  text-decoration: none;
+  font-size: 18px;
+}
+.banner img{
+  width: 100%;
+  height: 400px;
+  margin-top: -4px;
+}
+
+.content1{
+  width: 30%;
+  height: 380px;
+  background-color: skyblue;
+  float: left;
+  margin-top: 20px;
+  
+}
+.content2{
+  width: 30%;
+  height: 380px;
+  background-color: greenyellow;
+  float: left;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.content3{
+  width: 30%;
+  height: 380px;
+  background-color: silver;
+  float:right;
+  margin-top: 20px;
+}
+.heading{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.para{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.line{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.three{
+  padding: 10px;
+  margin-left: 60px;
+}
+.two{
+  padding: 10px;
+  margin-left: 60px;
+}
+.one{
+  padding: 10px;
+  margin-left: 60px;
+}
+.content3 p{
+  padding: 9px;
+}
+.content2 p{
+  padding: 9px;
+}
+.content1 p{
+  padding: 9px;
+}
+.bottom1{
+  width: 54%;
+  height: 300px;
+
+  float: left;
+  margin-top: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+  }
+.bottom2{
+  width: 40%;
+  height: 300px;
+  
+  float: right;
+  margin-top: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.bottom1 h2{
+  padding: 5px ;
+}
+.footer{
+  background-color: black;
+  height: 80px;
+  width: 100%;
+  clear: both;
+}
+.bottom1 a{
+  font-size: 18px;
+}
+
+
+
+
+
+
